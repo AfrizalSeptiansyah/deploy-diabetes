@@ -46,7 +46,6 @@ lightgbm==3.1.1
 MarkupSafe==2.0.1
 matplotlib==3.4.3
 mistune==0.8.4
-mkl-service
 nb-conda-kernels==2.3.1
 nbclient==0.5.4
 nbconvert==6.0.7
